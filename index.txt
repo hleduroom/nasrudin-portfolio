@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Nasrudin Safi - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Nasrudin Safi 
+Nasrudin Safi 
+CS Student | Developer 
 
 Show Contacts
 
 Email
-richard@example.com
+knasrudin712@gmail.com
 
 Phone
-+1 (213) 352-2795
++977 970-4131655
 
 Birthday
-June 23, 1982
+Baishak 15, 2062
 
 Location
-Sacramento, California, USA
+Ramdaiya, Madhesh, Nepal
 
 # navbar
 
@@ -233,8 +233,8 @@ Contact
 
 Contact Form
 
-Full name
+Your name
 Email address
 Your Message
 
-Send Message
+Send Me 😆
